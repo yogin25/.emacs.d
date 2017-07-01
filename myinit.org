@@ -112,7 +112,7 @@
         )
     #+END_SRC
 
-* Semx mode
+* Smex mode
   #+BEGIN_SRC emacs-lisp
     (use-package smex
       :ensure t
