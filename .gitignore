@@ -1,0 +1,9 @@
+# Ignore everithing
+*
+
+# except
+!.gitignore
+!myinit.org
+!init.el
+
+
