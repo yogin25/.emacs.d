@@ -90,7 +90,7 @@
  '(org-agenda-files (quote ("~/Documents/Notes/gtd.org")))
  '(package-selected-packages
    (quote
-    (smex dart-mode leuven-theme debbugs moe-theme csv-mode dracula-theme markdown-mode elfeed misterioso-theme misterioso transmission go-mode leuven lueven-theme aurel ace-jump-mode ace-jump ace-jump-window flycheck use-package ace-window ido-mode jedi paredit systemd beacon rainbow-delimiters which-key try org-bullets auto-complete)))
+    (yaml-mode smex dart-mode leuven-theme debbugs moe-theme csv-mode dracula-theme markdown-mode elfeed misterioso-theme misterioso transmission go-mode leuven lueven-theme aurel ace-jump-mode ace-jump ace-jump-window flycheck use-package ace-window ido-mode jedi paredit systemd beacon rainbow-delimiters which-key try org-bullets auto-complete)))
  '(pdf-view-midnight-colors (quote ("#DCDCCC" . "#383838")))
  '(pos-tip-background-color "#eee8d5")
  '(pos-tip-foreground-color "#586e75")
